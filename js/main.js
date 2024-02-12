@@ -31,5 +31,7 @@ function isEligible(){
       
 }
 
-console.log(isEligible())2
+console.log(isEligible());
 document.body.innerHTML = isEligible();
+
+console.log("We are using GIT!");
